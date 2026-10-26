@@ -1,4 +1,4 @@
-# Project URL : https://roadmap.sh/projects/data-visualization-tutorial
+# Project URL :  https://roadmap.sh/projects/data-visualization-tutorial
 
 # Tips Dataset: Matplotlib vs Seaborn
 
