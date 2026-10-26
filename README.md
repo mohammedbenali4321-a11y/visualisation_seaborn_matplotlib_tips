@@ -1,5 +1,10 @@
 # Project URL :  https://roadmap.sh/projects/data-visualization-tutorial
 
+# Connect : 
+* **Linkedin**  : [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
+* **Roadmap**   : [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
+*  **kaggle**   : [Mohamed BEN ALI](https://www.kaggle.com/mbaitri)
+
 # Tips Dataset: Matplotlib vs Seaborn
 
 A side-by-side practice project comparing Matplotlib and Seaborn syntax using
