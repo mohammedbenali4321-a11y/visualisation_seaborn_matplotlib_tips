@@ -1,6 +1,7 @@
 # Project URL :  https://roadmap.sh/projects/data-visualization-tutorial
 
-# Connect : 
+# Contact us for more:
+
 * **Linkedin**  : [Mohamed BEN ALI](www.linkedin.com/in/mohamed-ben-ali-m)
 * **Roadmap**   : [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
 *  **kaggle**   : [Mohamed BEN ALI](https://www.kaggle.com/mbaitri)
